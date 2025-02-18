@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on WebD
 - 📫 How to reach me sathwikreddy154@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 sathwikreddy15/sathwikreddy15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
